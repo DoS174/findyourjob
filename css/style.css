@@ -113,6 +113,7 @@ body {
   margin-bottom: 40px;
   margin-top: 0;
 }
+
 .card {
   text-decoration: none;
   color: #111238;
@@ -121,12 +122,14 @@ body {
   padding: 35px;
   transition: background 0.2s, color 0.2s;
 }
+
 .card:hover {
   background: #1a75e8;
-  color: #ffffff;
+  color: #fff;
 }
+
 .card:hover .card-icon {
-  fill: #ffffff;
+  fill: #fff;
 }
 
 .card-icon {
